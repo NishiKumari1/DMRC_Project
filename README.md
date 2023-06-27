@@ -2,7 +2,7 @@
 
 Project: Parking Space Counter using Image Processing Techniques
 
-Description:
+DESCRIPTION:
 
 Objective: Develop a parking space counter application using basic image processing techniques to determine the number of cars present and the number of vacant spaces in a parking lot.
 
@@ -24,7 +24,7 @@ Documentation and Presentation: Prepare comprehensive documentation detailing th
 
 
 
-Skills Demonstrated:
+SKILLS DEMONSTRATED:
 
 -Image Processing: Utilized basic image processing techniques such as edge detection, contour analysis, and image segmentation for car detection and space identification.
 
