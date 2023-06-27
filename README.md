@@ -27,5 +27,7 @@ Documentation and Presentation: Prepare comprehensive documentation detailing th
 Skills Demonstrated:
 
 -Image Processing: Utilized basic image processing techniques such as edge detection, contour analysis, and image segmentation for car detection and space identification.
+
 -Algorithm Development: Created custom algorithms for counting cars and identifying vacant parking spaces within the processed images.
+
 -User Interface Design: Developed a user-friendly interface to display the car count and available parking spaces, enhancing the usability of the application.
